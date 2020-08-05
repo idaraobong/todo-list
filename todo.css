@@ -1,0 +1,13 @@
+h1{
+  font-weight: bold;
+}
+#placeholder{
+    margin: 0;
+  padding: 5px 0;
+  list-style: none;
+  border-bottom: 1px dotted #eee;
+}
+#list{
+   text-decoration: line-through;
+  color: #acacac;
+}
